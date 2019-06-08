@@ -1,4 +1,4 @@
-package com.AngeloAzcorra.android.model;
+package com.AdrianMartinez.android.model;
 
 public class Pregunta {
     private int mIdResTexto;

@@ -1,4 +1,4 @@
-package com.AngeloAzcorra.android.model;
+package com.AdrianMartinez.android.model;
 
 import java.util.ArrayList;
 import java.util.List;
