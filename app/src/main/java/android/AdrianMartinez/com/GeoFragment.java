@@ -1,4 +1,4 @@
-package android.AngeloAzcorra.com;
+package android.AdrianMartinez.com;
 
 import com.AngeloAzcorra.android.model.BancoDePreguntas;
 import com.AngeloAzcorra.android.model.Pregunta;
@@ -17,7 +17,7 @@ import android.widget.Toast;
 
 
 public class GeoFragment extends Fragment {
-    public static final  String EXTRA_RESPUESTA_ES_CORRECTA = "com.AngeloAzcorra.android.geoapp.respuestaEsCorrecta";
+    public static final  String EXTRA_RESPUESTA_ES_CORRECTA = "com.AdrianMartinez.android.geoapp.respuestaEsCorrecta";
     private TextView mTextoPregunta;
     private Button mBotonCierto;
     private Button mBotonFalso;
